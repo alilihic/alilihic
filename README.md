@@ -32,21 +32,23 @@ Focused on scalability, automation, observability, security, and reliable delive
 
 ## 📌 Featured Projects
 
-### Terraform Azure Infrastructure
-
+**[Terraform Azure Infrastructure](https://github.com/alilihic/terraform-azure-infrastructure)**  
 Reusable Infrastructure as Code modules for Azure deployments.
 
-### Kubernetes Monitoring Stack
+**[Kubernetes AKS Deployment](https://github.com/alilihic/kubernetes-aks-deployment)**  
+Production-grade AKS manifests with HPA, PDB, and network policies.
 
-Prometheus + Grafana + Alertmanager with dashboards and alerts.
+**[Docker Monitoring Stack](https://github.com/alilihic/docker-compose-monitoring-stack)**  
+Prometheus + Grafana + Alertmanager — one command to start.
 
-### Identity Automation Toolkit
+**[GitHub Actions CI/CD](https://github.com/alilihic/github-actions-cicd)**  
+5-stage pipeline with security scanning and slot swap deployment.
 
-PowerShell automation for provisioning and user lifecycle management.
+**[Identity Automation Toolkit](https://github.com/alilihic/powershell-mfa-hardening)**  
+PowerShell automation for MFA compliance and user lifecycle management.
 
-### CI/CD Pipeline Templates
-
-Deployment workflows using GitHub Actions.
+**[Incident Runbooks](https://github.com/alilihic/incident-runbooks)**  
+Production runbooks with copy-paste KQL/SQL/PowerShell for common incidents.
 
 ---
 
