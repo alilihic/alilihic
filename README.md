@@ -1,17 +1,31 @@
 # Hi, I'm Ali Lihic 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=alilihic&color=brightgreen&style=flat)
+
 DevOps / Cloud Infrastructure Engineer with 10+ years of experience designing, automating, and operating production systems across Azure, AWS, and hybrid enterprise environments.
 
 Focused on scalability, automation, observability, security, and reliable delivery.
+
+> *"The best monitoring is the one that prevents the 3am wake-up call."*
 
 ---
 
 ## 🚀 Tech Stack
 
-**Cloud:** Azure • AWS • VMware &nbsp; **Infrastructure as Code:** Terraform • Bicep • ARM • Ansible &nbsp; **Containers:** Kubernetes • Docker  
-**CI/CD:** GitHub Actions • Azure DevOps • Jenkins &nbsp; **Scripting:** PowerShell • Bash • Python  
-**Observability:** Grafana • Prometheus • Azure Monitor • Log Analytics &nbsp; **Databases:** PostgreSQL • SQL Server  
-**Systems:** Linux • Windows Server • Networking
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
@@ -23,6 +37,34 @@ Focused on scalability, automation, observability, security, and reliable delive
 - Improve monitoring, dashboards, and alerting
 - Solve high-pressure production incidents
 - Strengthen IAM and security controls
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alilihic&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alilihic&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alilihic&theme=dark&hide_border=true)
+
+---
+
+## 🔨 Currently Working On
+
+- 📖 AZ-104 Microsoft Azure Administrator exam preparation
+- 🏗️ Building `azure-cost-anomaly-detector` — multi-subscription cost spike detection
+- 🔑 `partner-center-api-cookbook` — MPC API reference with real-world code examples
+- 📚 `sql-diagnostics-library` — production SQL query library for SaaS platform operations
+
+---
+
+## 📜 Certifications
+
+- 🔄 **AZ-104** Microsoft Azure Administrator *(in progress)*
+- ✅ Google IT Support Professional Certificate
+- ✅ Bachelor of Computer Science
 
 ---
 
@@ -93,4 +135,4 @@ Remote EU roles in:
 
 **DevOps Engineer · Platform Engineer · Cloud Infrastructure Engineer · Site Reliability Engineer**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ali-lihic/)
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-lihic/) &nbsp;|&nbsp; 📍 Croatia / Remote EU
