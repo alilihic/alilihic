@@ -1,50 +1,76 @@
 # Hi, I'm Ali Lihic 👋
 
-DevOps / Cloud Infrastructure Engineer with 10+ years of experience in Azure, automation, observability, CI/CD, and production reliability.
+DevOps / Cloud Infrastructure Engineer with 10+ years of experience designing, automating, and operating production systems across Azure, AWS, and hybrid enterprise environments.
 
-## Tech Stack
+Focused on scalability, automation, observability, security, and reliable delivery.
 
-Azure • AWS • Terraform • Kubernetes • Docker  
-GitHub Actions • Azure DevOps • Jenkins  
-PowerShell • Bash • Python  
-Grafana • Prometheus • Azure Monitor  
-Linux • Networking • PostgreSQL • SQL Server
+---
 
-## What I Do
+## 🚀 Tech Stack
 
-- Build reliable cloud infrastructure
-- Automate repetitive operations
-- Design CI/CD pipelines
-- Improve monitoring & alerting
-- Solve critical production incidents
-- Secure identity and access systems
+**Cloud:** Azure • AWS • VMware
+**Infrastructure as Code:** Terraform • ARM • Ansible
+**Containers:** Kubernetes • Docker
+**CI/CD:** GitHub Actions • Azure DevOps • Jenkins
+**Scripting:** PowerShell • Bash • Python
+**Observability:** Grafana • Prometheus • Azure Monitor • Log Analytics
+**Databases:** PostgreSQL • SQL Server
+**Systems:** Linux • Windows Server • Networking
 
-## Featured Projects
+---
+
+## 🔧 What I Do
+
+* Build reliable cloud infrastructure
+* Automate manual operations at scale
+* Design CI/CD pipelines and release workflows
+* Improve monitoring, dashboards, and alerting
+* Solve high-pressure production incidents
+* Strengthen IAM and security controls
+
+---
+
+## 📌 Featured Projects
 
 ### Terraform Azure Infrastructure
-Reusable IaC for Azure deployments.
+
+Reusable Infrastructure as Code modules for Azure deployments.
 
 ### Kubernetes Monitoring Stack
-Grafana + Prometheus + Alerting.
+
+Prometheus + Grafana + Alertmanager with dashboards and alerts.
 
 ### Identity Automation Toolkit
-PowerShell automation for provisioning workflows.
+
+PowerShell automation for provisioning and user lifecycle management.
 
 ### CI/CD Pipeline Templates
-Deployment pipelines using GitHub Actions.
 
-## Career Highlights
+Deployment workflows using GitHub Actions.
 
-- Reduced provisioning time from 60 min to <5 min
-- Improved security posture across enterprise tenants
-- Owned production alerting and observability workflows
-- Supported enterprise cloud environments across EMEA
+---
 
-## Open to Opportunities
+## 📈 Career Highlights
 
-Remote EU Senior DevOps / Platform / Cloud roles.
+* Reduced provisioning time from **60 minutes to under 5 minutes**
+* Improved security posture across enterprise tenants
+* Owned production monitoring and alerting workflows
+* Supported enterprise cloud platforms across EMEA
+* Delivered automation reducing manual effort by 90%+
 
-LinkedIn: https://www.linkedin.com/in/ali-lihic/
+---
+
+## 🌍 Open to Opportunities
+
+Remote EU roles in:
+
+**Senior DevOps Engineer**
+**Platform Engineer**
+**Cloud Infrastructure Engineer**
+**Site Reliability Engineer**
+
+📫 LinkedIn: https://www.linkedin.com/in/ali-lihic/
+
 
 <!--
 **alilihic/alilihic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
