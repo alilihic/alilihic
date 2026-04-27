@@ -47,7 +47,6 @@ Focused on scalability, automation, observability, security, and reliable delive
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alilihic&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alilihic&theme=dark&hide_border=true)
 
 ---
 
