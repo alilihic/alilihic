@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alilihic&color=brightgreen&style=flat)
 
-DevOps / Cloud Infrastructure Engineer with 10+ years of experience designing, automating, and operating production systems across Azure, AWS, and hybrid enterprise environments.
+DevOps / Cloud Infrastructure Engineer with 9+ years of experience designing, automating, and operating production systems across Azure, AWS, and hybrid enterprise environments.
 
 Focused on scalability, automation, observability, security, and reliable delivery.
 
