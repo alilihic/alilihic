@@ -61,9 +61,11 @@ Focused on scalability, automation, observability, security, and reliable delive
 
 ## 📜 Certifications
 
-- 🔄 **AZ-104** Microsoft Azure Administrator *(in progress)*
-- ✅ Google IT Support Professional Certificate
-- ✅ Bachelor of Computer Science
+•	Microsoft Certified: MCSE - Cloud Platform & Infrastructure (Legacy)
+•	Microsoft Certified: MCSA - Windows Server (Legacy)
+•	MCTS: Microsoft Certified Technology Specialist (Legacy)
+•	SC-300: Identity and Access Administrator Associate — In Progress · Jun 2026
+
 
 ---
 
