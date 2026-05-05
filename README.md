@@ -52,8 +52,11 @@ Focused on scalability, automation, observability, security, and reliable delive
 ## 📜 Certifications
 
 •	Microsoft Certified: MCSE - Cloud Platform & Infrastructure (Legacy)
+
 •	Microsoft Certified: MCSA - Windows Server (Legacy)
+
 •	MCTS: Microsoft Certified Technology Specialist (Legacy)
+
 •	SC-300: Identity and Access Administrator Associate — In Progress · Jun 2026
 
 
