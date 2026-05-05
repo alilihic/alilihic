@@ -42,7 +42,7 @@ Focused on scalability, automation, observability, security, and reliable delive
 
 ## 🔨 Currently Working On
 
-- 📖 AZ-104 Microsoft Azure Administrator exam preparation
+- 📖 SC-300: Identity and Access Administrator Associate
 - 🏗️ Building `azure-cost-anomaly-detector` — multi-subscription cost spike detection
 - 🔑 `partner-center-api-cookbook` — MPC API reference with real-world code examples
 - 📚 `sql-diagnostics-library` — production SQL query library for SaaS platform operations
