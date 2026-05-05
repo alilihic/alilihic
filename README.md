@@ -40,16 +40,6 @@ Focused on scalability, automation, observability, security, and reliable delive
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alilihic&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alilihic&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
-
-
----
-
 ## 🔨 Currently Working On
 
 - 📖 AZ-104 Microsoft Azure Administrator exam preparation
